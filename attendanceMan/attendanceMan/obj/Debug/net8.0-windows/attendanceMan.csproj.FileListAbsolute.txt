@@ -1,0 +1,16 @@
+C:\Users\ah711\source\repos\attendanceMan\attendanceMan\bin\Debug\net8.0-windows\attendanceMan.exe
+C:\Users\ah711\source\repos\attendanceMan\attendanceMan\bin\Debug\net8.0-windows\attendanceMan.deps.json
+C:\Users\ah711\source\repos\attendanceMan\attendanceMan\bin\Debug\net8.0-windows\attendanceMan.runtimeconfig.json
+C:\Users\ah711\source\repos\attendanceMan\attendanceMan\bin\Debug\net8.0-windows\attendanceMan.dll
+C:\Users\ah711\source\repos\attendanceMan\attendanceMan\bin\Debug\net8.0-windows\attendanceMan.pdb
+C:\Users\ah711\source\repos\attendanceMan\attendanceMan\obj\Debug\net8.0-windows\attendanceMan.Form1.resources
+C:\Users\ah711\source\repos\attendanceMan\attendanceMan\obj\Debug\net8.0-windows\attendanceMan.csproj.GenerateResource.cache
+C:\Users\ah711\source\repos\attendanceMan\attendanceMan\obj\Debug\net8.0-windows\attendanceMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ah711\source\repos\attendanceMan\attendanceMan\obj\Debug\net8.0-windows\attendanceMan.AssemblyInfoInputs.cache
+C:\Users\ah711\source\repos\attendanceMan\attendanceMan\obj\Debug\net8.0-windows\attendanceMan.AssemblyInfo.cs
+C:\Users\ah711\source\repos\attendanceMan\attendanceMan\obj\Debug\net8.0-windows\attendanceMan.csproj.CoreCompileInputs.cache
+C:\Users\ah711\source\repos\attendanceMan\attendanceMan\obj\Debug\net8.0-windows\attendanceMan.dll
+C:\Users\ah711\source\repos\attendanceMan\attendanceMan\obj\Debug\net8.0-windows\refint\attendanceMan.dll
+C:\Users\ah711\source\repos\attendanceMan\attendanceMan\obj\Debug\net8.0-windows\attendanceMan.pdb
+C:\Users\ah711\source\repos\attendanceMan\attendanceMan\obj\Debug\net8.0-windows\attendanceMan.genruntimeconfig.cache
+C:\Users\ah711\source\repos\attendanceMan\attendanceMan\obj\Debug\net8.0-windows\ref\attendanceMan.dll

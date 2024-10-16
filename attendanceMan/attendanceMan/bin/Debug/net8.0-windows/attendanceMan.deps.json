@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "attendanceMan/1.0.0": {
+        "runtime": {
+          "attendanceMan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "attendanceMan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
